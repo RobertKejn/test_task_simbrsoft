@@ -7,8 +7,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import javax.swing.text.Element;
-import javax.swing.text.html.Option;
 import java.time.Duration;
 import java.util.List;
 import java.util.Random;
